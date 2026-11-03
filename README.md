@@ -4,7 +4,7 @@ CS undergrad at NIT Surat, interested in full-stack development and applied AI. 
 
 ## Featured Projects
 
-- **[CivicPulse AI](https://github.com/satvik-reddypally/civicpulse-ai)**: [CivicPulse AI is a web app where citizens report a public problem like a pothole with one photo and a map pin, and AI verifies it, routes it to the right municipal department, sets the legal resolution deadline, and ranks its urgency using live location, weather and air-quality data.]. [Live demo](https://civicpulse-ai-ivory.vercel.app)
+- **[CivicPulse AI](https://github.com/satvik-reddypally/civicpulse-ai)**: CivicPulse AI is a web app where citizens report a public problem like a pothole with one photo and a map pin, and AI verifies it, routes it to the right municipal department, sets the legal resolution deadline, and ranks its urgency using live location, weather and air-quality data.. [Live demo](https://civicpulse-ai-ivory.vercel.app)
 
 - **[Railway Surveillance AI](https://github.com/satvik-reddypally/Railway-Surveillance-AI)**: crowd detection and density analysis for railway platforms using YOLOv8, OpenCV and a hybrid head-density estimate.
 
